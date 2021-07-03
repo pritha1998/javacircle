@@ -1,4 +1,4 @@
-//import java.util.*;
+import java.util.*;
 
 class rect0 extends Thread
 {
